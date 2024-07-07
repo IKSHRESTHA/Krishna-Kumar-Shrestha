@@ -1,0 +1,56 @@
+---
+title: "Krishna Kumar Shrestha"
+image: images/krishna.jpg
+about: 
+  template: trestles
+  links:
+    - text: LinkedIN
+      icon: linkedin
+      url: "https://www.linkedin.com/in/krishnakumarshrestha/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/IKSHRESTHA"
+    - text: Email
+      icon: envelope-at-fill
+      url: "mailto:krishnakumarshrestha00@gmail.com"
+    - text: CV
+      icon: file-earmark-person
+      url: "cv.pdf"
+comments: false
+---
+
+::: column-page
+## Bio
+
+With an unwavering passion for data analysis, I have forged a path of success in leveraging insights from complex information. As a devoted advocate for harnessing the power of data, I constantly seek opportunities to explore its depths and uncover valuable patterns. My dedication to the field is evident through my active involvement in the Actuarial Society of Nepal, where I contribute to the growth and advancement of data-driven practices. Through continuous learning and staying at the forefront of industry developments, I strive to make meaningful contributions to the world of data analysis and drive innovation in this dynamic field.
+
+## Education
+
+**School of Mathematical Science** \| Kathmandu,Nepal
+
+B.Math Sc. major in Actuarial Science \| 2017 -2021
+
+## Experience
+
+**Actuarial Society of Nepal** \| Secretary \| 2022 - Present
+
+**Principle Risk Consulting** \|Consultant\| June 2019 - Present
+
+**IME General Insurance** \|Senior Underwriter\| June 2021 - Oct 2022
+
+**Numeric Mind** \| Data Analyst Intern \| Jun 2020 -Jan 2021
+
+## **Skills**
+
+#### **Programming Skills**
+
+**`R`** \| **`Python`** \| **`Excel with VBA`**
+
+#### **Language Skills**
+
+**`English`** \| **`Nepali`**
+
+#### **Statistical Skills**
+
+**`Discriptive Analysis`** \| **`Data Manupulation`** \|**`Data Visualization`** \| **`Predictive Modeling`**
+:::

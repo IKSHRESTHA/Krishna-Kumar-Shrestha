@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "KrishnaKumarShrestha"
+  navbar:
+    left:
+      - href: index.qmd
+        icon: house-door
+        text: Home
+      - href: about.qmd
+        icon: file-person
+        text: About Me
+
+    right:
+      - icon: github
+        href: https://github.com/IKSHRESTHA
+        aria-label: Github
+      - icon: linkedin
+        href: https://www.linkedin.com/in/krishnakumarshrestha/
+  announcement: 
+    content: "**New** - this is an announcement" 
+    position: below-navbar
+        
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    
+page-footer:
+    left: "© Copyright 2024 Krishna Kumar Shrestha. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+
+editor: visual
+
