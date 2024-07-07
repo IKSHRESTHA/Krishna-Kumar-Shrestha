@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery</title>
+    <style>
+        /* Basic styling for the gallery */
+        .photo-gallery {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .photo-gallery h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .photo-gallery .gallery {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr); /* 3-column grid */
+            gap: 20px;
+            padding: 20px;
+            max-width: 1200px; /* Adjust as needed */
+            margin: 0 auto; /* Center the gallery */
+        }
+        .photo-gallery .gallery-item {
+            position: relative;
+            overflow: hidden;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center; /* Center the image */
+        }
+        .photo-gallery .gallery-item img {
+            max-width: 100%; /* Default max-width for all images */
+            height: auto;
+            display: block;
+            transition: transform 0.2s ease-in-out;
+            margin: 0 auto; /* Center the image */
+        }
+        .photo-gallery .gallery-item:hover img {
+            transform: scale(1.1);
+        }
+        .photo-gallery .gallery-item .caption {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            padding: 8px;
+            background-color: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            font-size: 14px;
+            text-align: center;
+            opacity: 0;
+            transition: opacity 0.2s ease-in-out;
+        }
+        .photo-gallery .gallery-item:hover .caption {
+            opacity: 1;
+        }
+
+        /* Adjust the size of the first gallery item */
+        .photo-gallery .gallery-item.first-item img {
+            max-width: 60%; /* Adjust the width of photo.png */
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .photo-gallery .gallery {
+                grid-template-columns: repeat(1, 1fr); /* 1-column grid on smaller screens */
+            }
+            .photo-gallery .gallery-item:first-child img {
+                max-width: 100%; /* Full width on smaller screens */
+            }
+            .photo-gallery .gallery-item img {
+                max-width: 100%; /* Full width for images on smaller screens */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="photo-gallery">
+        <h1>Photo Gallery</h1>
+        <div class="gallery">
+            <!-- First photo at the top -->
+            <div class="gallery-item">
+                <img src="gallery/event_ppt1.jpg" alt="Photo 1">
+                <div class="caption">ASN Event</div>
+            </div>
+            <div class="gallery-item">
+                <img src="gallery/event_ppt2.jpg" alt="Photo 1">
+                <div class="caption">ASN Event</div>
+            </div>
+
+            <div class="gallery-item first-item">
+                <img src="gallery/photo.png" alt="Photo 1">
+                <div class="caption">UNDP-Milliman Working Group Meeting</div>
+            </div>
+             <!-- Other photos in a 3-column grid -->
+             <div class="gallery-item">
+                <img src="gallery/photo1.jpg" alt="Photo 2">
+                <div class="caption">Interaction with University UNDP Milliman</div>
+            </div>
+            <!-- Other photos in a 3-column grid -->
+            <div class="gallery-item">
+                <img src="gallery/photo3.jpg" alt="Photo 2">
+                <div class="caption">Presenting on Actuarial Science:ASN AGM </div>
+            </div>
+            <div class="gallery-item">
+                <img src="gallery/photo4.jpg" alt="Photo 3">
+                <div class="caption">School Days Winning National Level Quiz Competation</div>
+            </div>
+            <div class="gallery-item">
+                <img src="gallery/photo5.jpg" alt="Photo 4">
+                <div class="caption">School days: FECA Cup football</div>
+            </div>
+            
+            
+            <!-- Add more gallery items as needed -->
+        </div>
+    </div>
+</body>
+</html>
