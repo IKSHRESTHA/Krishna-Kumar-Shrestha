@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/projects/index.html",
+    "href": "posts/projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Krishna Kumar Shrestha",
@@ -33,19 +47,5 @@
     "title": "Krishna Kumar Shrestha",
     "section": "",
     "text": "R | Python | Excel with VBA\n\n\n\nEnglish | Nepali\n\n\n\nDiscriptive Analysis | Data Manupulation |Data Visualization | Predictive Modeling"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/projects/index.html",
-    "href": "posts/projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "try\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
