@@ -1,1 +1,14 @@
-
+---
+title: "Projects"
+description: "This is where all my project will be posted"
+listing: 
+  contents: posts
+  type: grid
+  grid-columns: 2
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+page-navigation: true
+---

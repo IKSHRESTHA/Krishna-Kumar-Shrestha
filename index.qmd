@@ -16,6 +16,8 @@ about:
     - text: CV
       icon: file-earmark-person
       url: "cv.pdf"
+      
+page-layout: full
 comments: false
 ---
 

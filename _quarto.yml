@@ -4,6 +4,7 @@ project:
 website:
   title: "KrishnaKumarShrestha"
   navbar:
+    pinned: TRUE
     left:
       - href: index.qmd
         icon: house-door
@@ -13,6 +14,8 @@ website:
         text: About Me
 
     right:
+      - href: posts/projects
+        text: Project
       - icon: github
         href: https://github.com/IKSHRESTHA
         aria-label: Github
@@ -22,7 +25,7 @@ website:
     content: "**New** - this is an announcement" 
     position: below-navbar
         
-
+page-layout: full
 format:
   html:
     theme: sandstone
