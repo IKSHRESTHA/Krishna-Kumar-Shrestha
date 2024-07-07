@@ -4,7 +4,7 @@ image: images/krishna.jpg
 about: 
   template: trestles
   links:
-    - text: LinkedIN
+    - text: Linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/krishnakumarshrestha/"
     - text: GitHub
@@ -21,7 +21,7 @@ page-layout: full
 comments: false
 ---
 
-::: column-page
+::: {.column-page style="// Variables for easy customization $fixed-width: 300px; $scrollable-bg-color: #f5f5f5;  // Container for the columns .container {   display: flex;   height: 100vh; // Full viewport height }  // First column - fixed width .fixed-column {   width: $fixed-width;   background-color: #fff; // Change as needed   border-right: 1px solid #ddd; // Optional border   box-sizing: border-box;   overflow: hidden; // Prevent scrolling }  // Second column - scrollable .scrollable-column {   flex: 1;   background-color: $scrollable-bg-color;   overflow-y: auto; // Enable vertical scrolling   padding: 20px; // Optional padding   box-sizing: border-box; }"}
 ## Bio
 
 With an unwavering passion for data analysis, I have forged a path of success in leveraging insights from complex information. As a devoted advocate for harnessing the power of data, I constantly seek opportunities to explore its depths and uncover valuable patterns. My dedication to the field is evident through my active involvement in the Actuarial Society of Nepal, where I contribute to the growth and advancement of data-driven practices. Through continuous learning and staying at the forefront of industry developments, I strive to make meaningful contributions to the world of data analysis and drive innovation in this dynamic field.

@@ -9,9 +9,9 @@ website:
       - href: index.qmd
         icon: house-door
         text: Home
-      - href: about.qmd
+      - href: gallery.html
         icon: file-person
-        text: About Me
+        text: Gallery
 
     right:
       - href: posts/projects
