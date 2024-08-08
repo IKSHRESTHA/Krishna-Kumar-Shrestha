@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://IKSHRESTHA.github.io/Krishna-Kumar-Shrestha/posts/projects/posts/project1.html</loc>
-    <lastmod>2024-08-07T13:23:48.793Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IKSHRESTHA.github.io/Krishna-Kumar-Shrestha/index.html</loc>
-    <lastmod>2024-08-07T13:23:48.789Z</lastmod>
-  </url>
-  <url>
-    <loc>https://IKSHRESTHA.github.io/Krishna-Kumar-Shrestha/about.html</loc>
-    <lastmod>2024-08-07T13:23:48.777Z</lastmod>
+    <loc>https://IKSHRESTHA.github.io/Krishna-Kumar-Shrestha/gallary.html</loc>
+    <lastmod>2024-08-08T06:29:51.594Z</lastmod>
   </url>
   <url>
     <loc>https://IKSHRESTHA.github.io/Krishna-Kumar-Shrestha/posts/projects/index.html</loc>
-    <lastmod>2024-08-07T13:23:48.789Z</lastmod>
+    <lastmod>2024-08-08T06:29:51.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IKSHRESTHA.github.io/Krishna-Kumar-Shrestha/about.html</loc>
+    <lastmod>2024-08-08T06:29:51.594Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IKSHRESTHA.github.io/Krishna-Kumar-Shrestha/index.html</loc>
+    <lastmod>2024-08-08T06:29:51.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://IKSHRESTHA.github.io/Krishna-Kumar-Shrestha/posts/projects/posts/project1.html</loc>
+    <lastmod>2024-08-08T06:29:51.610Z</lastmod>
   </url>
 </urlset>
