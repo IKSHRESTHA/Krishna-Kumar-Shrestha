@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         icon: house-door
         text: Home
-      - href: gallery.html
+      - href: gallary.qmd
         icon: file-person
         text: Gallery
 
