@@ -1,5 +1,5 @@
 ---
-title: Complete Lightbox Example
+title: My Moments
 lightbox:
   match: auto
   effect: zoom
@@ -8,32 +8,26 @@ lightbox:
   css-class: "my-css-class"
 ---
 
-![A Lovely Image](images/event_ppt1.jpg){group="my-gallery"}
+<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .gallery img {
+    width: calc(50% - 10px);
+    box-sizing: border-box;
+  }
+</style>
 
-<br><br><br>
-
-![A Lovely Image](images/event_ppt2.jpg){group="my-gallery"}
-
-<br><br>
-
-![A Lovely Image](images/krishna.jpg){group="my-gallery"} 
-<br>
-![A Lovely Image](images/photo.png){group="my-gallery"} 
-<br>
-![A Lovely Image](images/photo1.jpg){group="my-gallery"}
-
-<br><br>
-
-![A Lovely Image](images/photo2.jpg){group="my-gallery"}
-
-<br><br>
-
-![A Lovely Image](images/photo3.jpg){group="my-gallery"}
-
-<br><br>
-
-![A Lovely Image](images/photo4.jpg){group="my-gallery"}
-
-<br><br>
-
-![A Lovely Image](images/photo5.jpg){group="my-gallery"}
+<div class="gallery">
+  ![A Lovely Image](images/event_ppt1.jpg){group="my-gallery"}
+  ![A Lovely Image](images/event_ppt2.jpg){group="my-gallery"}
+  ![A Lovely Image](images/krishna.jpg){group="my-gallery"}
+  ![A Lovely Image](images/photo.png){group="my-gallery"}
+  ![A Lovely Image](images/photo1.jpg){group="my-gallery"}
+  ![A Lovely Image](images/photo2.jpg){group="my-gallery"}
+  ![A Lovely Image](images/photo3.jpg){group="my-gallery"}
+  ![A Lovely Image](images/photo4.jpg){group="my-gallery"}
+  ![A Lovely Image](images/photo5.jpg){group="my-gallery"}
+</div>
