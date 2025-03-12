@@ -22,69 +22,64 @@ comments: false
 ---
 
 ::: {.column-page style="// Variables for easy customization $fixed-width: 300px; $scrollable-bg-color: #f5f5f5;  // Container for the columns .container {   display: flex;   height: 100vh; // Full viewport height }  // First column - fixed width .fixed-column {   width: $fixed-width;   background-color: #fff; // Change as needed   border-right: 1px solid #ddd; // Optional border   box-sizing: border-box;   overflow: hidden; // Prevent scrolling }  // Second column - scrollable .scrollable-column {   flex: 1;   background-color: $scrollable-bg-color;   overflow-y: auto; // Enable vertical scrolling   padding: 20px; // Optional padding   box-sizing: border-box; }"}
-
-
 ## Bio
 
 With an unwavering passion for data analysis, I have forged a path of success in leveraging insights from complex information. As a devoted advocate for harnessing the power of data, I constantly seek opportunities to explore its depths and uncover valuable patterns. My dedication to the field is evident through my active involvement in the Actuarial Society of Nepal, where I contribute to the growth and advancement of data-driven practices. Through continuous learning and staying at the forefront of industry developments, I strive to make meaningful contributions to the world of data analysis and drive innovation in this dynamic field. Additionally, I have demonstrated my expertise in actuarial science and data analysis through various professional roles and projects, consistently delivering high-quality results and fostering a culture of continuous improvement and collaboration.
 
 ## Education
 
-**Tribhuvan University** | Kathmandu, Nepal  
-Bachelor in Mathematical Science (Actuarial Science) | 2017 - 2021  
+**Tribhuvan University** \| Kathmandu, Nepal\
+Bachelor in Mathematical Science (Actuarial Science) \| 2017 - 2021\
 Cumulative GPA: 2.68/4
 
-- **Research Paper:** Estimating R Number for Nepal: Key Indicator for Covid-19 Situation (Awarded as winner of Institute of Faculty of Actuaries hackathon 2021)
-- **Relevant coursework:** Predicting Air Quality of Kathmandu using SVM Model and Misinformation in Covid-19 Crisis
-- **Certifications:** Certified Data Analyst Professional (2023)
-- **Achievements:** Finalist in “Kislay Actuarial Education Hackathon 2020”
+-   **Research Paper:** Estimating R Number for Nepal: Key Indicator for Covid-19 Situation (Awarded as winner of Institute of Faculty of Actuaries hackathon 2021)
+-   **Relevant coursework:** Predicting Air Quality of Kathmandu using SVM Model and Misinformation in Covid-19 Crisis
+-   **Certifications:** Certified Data Analyst Professional (2023)
+-   **Achievements:** Finalist in “Kislay Actuarial Education Hackathon 2020”
 
 ## Experience
 
-**Actuarial Society of Nepal** | Secretary | Kathmandu, Nepal | 07/2022 – Present
-- Spearhead the planning and execution of various training events, workshops, and seminars to promote continuous professional development within the actuarial community.
-- Strengthen the society’s outreach by coordinating with local and international actuarial organizations, building strategic partnerships for mutual growth and learning.
-- Represent the Actuarial Society of Nepal as a committee member in the GAIN Initiative (UNDP-Milliman).
+**Actuarial Society of Nepal** \| Secretary \| Kathmandu, Nepal \| 07/2022 – Present - Spearhead the planning and execution of various training events, workshops, and seminars to promote continuous professional development within the actuarial community. - Strengthen the society’s outreach by coordinating with local and international actuarial organizations, building strategic partnerships for mutual growth and learning. - Represent the Actuarial Society of Nepal as a committee member in the GAIN Initiative (UNDP-Milliman).
 
-**Principal Risk Consulting** | Senior Consultant | Kathmandu, Nepal | 12/2022 – Present
-- Lead and oversee Employee Benefit Valuation projects for a broad spectrum of clients, adhering to guidelines and standards set by Nepal Accounting Standard 19.
-- Provide guidance on regulatory compliance, risk management, and financial reporting related to employee benefit schemes to government organizations, public institutes, banks, and microfinance.
+**Principal Risk Consulting** \| Senior Consultant \| Kathmandu, Nepal \| 12/2022 – Present - Lead and oversee Employee Benefit Valuation projects for a broad spectrum of clients, adhering to guidelines and standards set by Nepal Accounting Standard 19. - Provide guidance on regulatory compliance, risk management, and financial reporting related to employee benefit schemes to government organizations, public institutes, banks, and microfinance.
 
-**eBeema** | Consultant | Kathmandu, Nepal | 06/2022 – 08/2023
-- Successfully launched eBeema’s digital insurance platform, resulting in a significant increase in customer engagement and retention.
-- Led cross-functional teams in designing user-friendly mobile applications and web platforms for policyholders to easily purchase, manage, and claim insurance policies.
+**eBeema** \| Consultant \| Kathmandu, Nepal \| 06/2022 – 08/2023 - Successfully launched eBeema’s digital insurance platform, resulting in a significant increase in customer engagement and retention. - Led cross-functional teams in designing user-friendly mobile applications and web platforms for policyholders to easily purchase, manage, and claim insurance policies.
 
-**IME General Insurance** | Senior Underwriter | Kathmandu, Nepal | 10/2021 – 06/2022
-- Evaluated motor insurance and property insurance applications, policy endorsements, and renewals, ensuring accurate risk assessment and adherence to company underwriting guidelines.
+**IME General Insurance** \| Senior Underwriter \| Kathmandu, Nepal \| 10/2021 – 06/2022 - Evaluated motor insurance and property insurance applications, policy endorsements, and renewals, ensuring accurate risk assessment and adherence to company underwriting guidelines.
 
-**Numeric Mind** | Data Analyst Intern | Kathmandu, Nepal | 07/2020 – 12/2020
-- Worked on data cleaning, tabulating data as per project specification, and conducting hypothesis testing for clinical trials using SAS and R programming.
+**Numeric Mind** \| Data Analyst Intern \| Kathmandu, Nepal \| 07/2020 – 12/2020 - Worked on data cleaning, tabulating data as per project specification, and conducting hypothesis testing for clinical trials using SAS and R programming.
 
 ## Skills
 
 ### Programming Skills
-**`R`** | **`Python`** | **`Excel with VBA`** | **`SQL`** | **`git`**
+
+**`R`** \| **`Python`** \| **`Excel with VBA`** \| **`SQL`** \| **`git`**
 
 ### Language Skills
-**`English`** | **`Nepali`** | **`Newari`**
+
+**`English`** \| **`Nepali`** \| **`Newari`**
 
 ### Statistical Skills
-**`Descriptive Analysis`** | **`Data Manipulation`** | **`Data Visualization`** | **`Predictive Modeling`**
+
+**`Descriptive Analysis`** \| **`Data Manipulation`** \| **`Data Visualization`** \| **`Predictive Modeling`**
 
 ### Actuarial Principles
-**Employee Benefit Valuation** | **IBNR Reserving** | **Own Risk Solvency**
+
+**Employee Benefit Valuation** \| **IBNR Reserving** \| **Own Risk Solvency**
 
 ### Communication
+
 **Written and Oral Communication:** English, Nepali, Newari
 
 ## Professional Development
-- **Institute of Faculty of Actuaries (IFOA):** CS1, CM1, CB1, CB2, CB3, CP3, Stage1
-- **Data Camp:** Data Analyst with R Track (77 hrs.), Data Scientist with R Track (88 hrs.)
-- **World Bank Training:** Risk Based Capital training, Own Risk Solvency training
+
+-   **Institute of Faculty of Actuaries (IFOA):** CS1, CM1, CB1, CB2, CB3, CP3, Stage1
+-   **Data Camp:** Data Analyst with R Track (77 hrs.), Data Scientist with R Track (88 hrs.)
+-   **World Bank Training:** Risk Based Capital training, Own Risk Solvency training
 
 ## Interests
-- **Sports:** Football and Cricket
-- **Traveling:** Especially hiking
-- **Music:** Especially lo-fi genre
 
+-   **Sports:** Football and Cricket
+-   **Traveling:** Especially hiking
+-   **Music:** Especially lo-fi genre
 :::
