@@ -29,11 +29,16 @@ page-layout: full
 format:
   html:
     theme: sandstone
-    css: styles.css
+    css: assets/styles.css
     toc: true
     
 page-footer:
     left: "© Copyright 2024 Krishna Kumar Shrestha. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
 
 editor: visual
+
+folders:
+  assets: "assets/"
+  output: "output/"
+  r-project: "r-project/"
 
